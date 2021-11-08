@@ -2,6 +2,8 @@
 
 ## I am banned from gamebanana lololol
 
+![Ganryu BAD!](trash.png)
+
 - I’m currently working on my Dave Psych Port lolol
 - I’m looking to collaborate on Vs. Scarlett
 - I’m looking to help with SlinkyCoil
