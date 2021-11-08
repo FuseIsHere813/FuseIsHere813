@@ -4,7 +4,7 @@
 
 - I’m currently working on my Dave Psych Port lolol
 - I’m looking to collaborate on Vs. Scarlett
-- I’m looking for help with SlinkyCoil
+- I’m looking to help with SlinkyCoil
 - Ask me about FNF.
 - How to reach me: Discord: FuseIsHere (Temp Alt)#0765
 - Pronouns: he/him and they/them
