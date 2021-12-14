@@ -3,6 +3,7 @@
 ## I am banned from gamebanana lololol
 
 ![Ganryu BAD!](trash.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuseIsHere813](https://github.com/anuraghazra/github-readme-stats)
 
 - I’m currently working on my Dave Psych Port lolol
 - I’m looking to collaborate on Vs. Scarlett
