@@ -10,6 +10,6 @@
 - I’m looking to collaborate on Vs. Scarlett
 - I’m looking to help with SlinkyCoil
 - Ask me about FNF.
-- How to reach me: Discord: FuseIsHere (Temp Alt)#0765
+- How to reach me: Discord: Fuse#2775
 - Pronouns: he/him and they/them
 - Fun fact: I code to troll the player :trollface:
