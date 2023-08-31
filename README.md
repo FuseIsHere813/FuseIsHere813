@@ -8,5 +8,7 @@
 
 - I’m currently working on lightning edition
 - I'm currently looking for to recontinue my Dave Psych Engine Port
-- How to reach me: Discord: Fuse#2775
+- How to reach me: Discord Account: Fuse#2775
 - Pronouns: he/him and they/them
+- I'm a PRO (JustSpace is based frfr)
+- This repo is ## special
