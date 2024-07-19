@@ -8,7 +8,7 @@ I love music, producing for 2 years, and improving over time.
 
 - I’m currently working on lightning edition
 - do you know I was BANNED on gamebanana under alt creation? been working on appeals lol
-- I'm currently looking for to recontinue my Dave Psych Engine Port
+- I'm currently looking forward to plan on returning with the Scarlett Weeks development, the owner was the GOAT.
 - How to reach me: Discord (@fuseishere)
 - Pronouns: he/him and they/them
 - I'm a PRO (JustSpace is based frfr)
