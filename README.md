@@ -4,7 +4,7 @@ I love music, producing for 2 years, and improving over time.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuseIsHere813&show_icons=true&theme=radical)
 
-![HAHAHA!](ANGRY SHREDMID CROPPED.png)
+![HAHAHA!](shred mid.png)
 
 - I’m currently working on lightning edition
 - do you know I was BANNED under alt creation? lol
