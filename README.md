@@ -2,7 +2,7 @@
 
 I made contribution to Vs. Dave and Bambi's repo (somehow).
 
-I was somehow the new owner for the ![Vs. Dave 2.5 source code](https://github.com/fuseishere813/vsdave) for when it was privated.
+I was somehow the new owner for the [Vs. Dave 2.5 source code](https://github.com/fuseishere813/vsdave) for when it was privated.
 
 I love music, producing for 2 years, and improving over time.
 
