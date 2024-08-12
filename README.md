@@ -1,5 +1,9 @@
 ### hi!
 
+I made contribution to Vs. Dave and Bambi's repo (somehow).
+
+I was somehow the new owner for the ![Vs. Dave 2.5 source code](https://github.com/fuseishere813/vsdave) for when it was privated.
+
 I love music, producing for 2 years, and improving over time.
 
 i also chart for a few mods, and code for my own mod too.
@@ -10,8 +14,9 @@ i also chart for a few mods, and code for my own mod too.
 
 - I’m currently working on lightning edition
 - do you know I was BANNED on gamebanana under alt creation? been working on appeals lol
-- I'm currently looking forward to plan on returning with the Scarlett Weeks development, the owner was the GOAT.
-- How to reach me: Discord (@fuseishere)
-- Pronouns: he/him and they/them
-- I'm a PRO (JustSpace is based frfr)
+- I'm currently looking forward to plan on returning with the Scarlett Weeks development.
+- How to reach me: Discord (@fuseishere), Other: Check my bio.
+- Pronouns: he/him
+- Considered to be a PRO (Vuil is really based to me fs fs.)
 - This repo is "special"
+- @CUBEKid04 is the goat.
