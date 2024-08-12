@@ -9,6 +9,7 @@ I love music, producing for 2 years, and improving over time.
 i also chart for a few mods, and code for my own mod too.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuseIsHere813&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moxie-coder&layout=compact&show_icons=true&theme=radical)
 
 ![HAHAHA!](shred.PNG)
 
