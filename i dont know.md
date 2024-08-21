@@ -52,14 +52,7 @@ OS Engine adds the circle noteskin only, right? well, now there is NEW 3D NOTES!
 Select your desired in the Options Menu.
 
 ### Showcase Mode
-This feature hides HUD and enables botplay. So you can showcase any mod without any problems.
-
-![](https://media.discordapp.net/attachments/969211146412363828/969211657307951104/unknown.png)
-
-### Hide Score Text
-This feature hides score text under health bar. Idk why you need to use it.
-
-![](https://media.discordapp.net/attachments/969211146412363828/969211797993299979/unknown.png)
+This feature hides HUD and enables botplay. Useful for showcasing, and for youtube.
 
 ### Perfect!! Judgement
 Adds Perfect!! Judgement. It's better than sick. Btw you can disable it in settings if you want.
