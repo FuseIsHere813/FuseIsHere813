@@ -14,7 +14,7 @@ i also chart and maybe other stuff for a few mods, and code for my own mod too.
 ![HAHAHA!](shred.PNG)
 
 - I’m currently working on lightning edition
-- do you know I was BANNED on gamebanana under alt creation? been working on appeals lol
+- do you know I was BANNED on gamebanana under alt creation? tough luck. and harsh!
 - I'm currently looking forward to plan on returning with the Scarlett Weeks development.
 - How to reach me: Discord (@fuseishere), Other: Check my bio.
 - Considered to be a PRO (Vuil is really based to me fs fs.)
