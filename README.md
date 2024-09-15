@@ -8,8 +8,8 @@ I love music, producing for 2 years, and improving over time.
 
 i also chart and maybe other stuff for a few mods, and code for my own mod too.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuseIsHere813&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FuseIsHere813&layout=compact&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuseIsHere813&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FuseIsHere813&layout=compact&show_icons=true&theme=dark)
 
 ![HAHAHA!](shred.PNG)
 
